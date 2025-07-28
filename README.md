@@ -1,5 +1,4 @@
 # Excel-Fitness-Equipment-Sales-Analysis
-# Excel-Fitness-Equipment-Sales-Analysis
 
 ![cartoon-of-happy-boys-in-the-gym-vector-39035624](https://github.com/user-attachments/assets/835d0226-f8b4-4a1f-b2f5-403abcb3e91e)
 
